@@ -1,0 +1,12 @@
+[submodule "FlightsAndSearchService"]
+	path = FlightsAndSearchService
+	url = https://github.com/jardaanii/FlightsAndSearchService.git
+[submodule "ReminderService"]
+	path = ReminderService
+	url = https://github.com/jardaanii/ReminderService.git
+[submodule "AirTicketBookingService"]
+	path = AirTicketBookingService
+	url = https://github.com/jardaanii/AirTicketBookingService.git
+[submodule "Auth_Service"]
+	path = Auth_Service
+	url = https://github.com/jardaanii/Auth_Service.git
